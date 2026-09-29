@@ -1,6 +1,17 @@
 CREATE DATABASE IF NOT EXISTS `dbsistemaembutidos` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE `dbsistemaembutidos`;
 
+CREATE TABLE `Peliculas` (
+  `idPeliculas` int NOT NULL AUTO_INCREMENT,
+  `Nombre` varchar(45) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `Clasificacion` varchar(45) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `Genero` varchar(45) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `Subtitulado` varchar(45) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `Idioma` varchar(45) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `Precio` varchar(45) COLLATE utf8mb4_unicode_ci NOT NULL,
+  PRIMARY KEY (`idPeliculas`)
+);
+
 CREATE TABLE `tblempleado` (
   `idEmpleado` int NOT NULL AUTO_INCREMENT,
   `codigoEmpleado` varchar(30) COLLATE utf8mb4_unicode_ci NOT NULL,
