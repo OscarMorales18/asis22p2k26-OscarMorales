@@ -233,6 +233,16 @@ namespace CapaVista_Seguridad.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap botonmdiEXAMEN {
+            get {
+                object obj = ResourceManager.GetObject("botonmdiEXAMEN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap btn_anterior {
             get {
                 object obj = ResourceManager.GetObject("btn_anterior", resourceCulture);
