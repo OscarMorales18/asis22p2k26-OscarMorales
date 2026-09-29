@@ -125,6 +125,12 @@
     <Compile Include="FrmNavegador.Designer.cs">
       <DependentUpon>FrmNavegador.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmPeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPeliculas.Designer.cs">
+      <DependentUpon>FrmPeliculas.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmRecuperacion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -244,6 +250,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmNavegador.resx">
       <DependentUpon>FrmNavegador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPeliculas.resx">
+      <DependentUpon>FrmPeliculas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmRecuperacion.resx">
       <DependentUpon>FrmRecuperacion.cs</DependentUpon>
@@ -454,6 +463,7 @@
     <None Include="Resources\botonmdi10.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\botonmdiEXAMEN.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

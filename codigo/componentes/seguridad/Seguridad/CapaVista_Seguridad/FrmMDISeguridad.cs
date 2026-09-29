@@ -305,6 +305,12 @@ namespace CapaVista_Seguridad
         {
             Help.ShowHelp(this, "C:/SeguridadAyudas/SeguridadAyudas.chm", "MDI_Seguridad.html");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmPeliculas Peliculas = new FrmPeliculas();
+            Peliculas.ShowDialog();
+        }
     }
 }
 
