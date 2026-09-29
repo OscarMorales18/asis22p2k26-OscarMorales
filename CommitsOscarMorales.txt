@@ -1,0 +1,41 @@
+commit 957f77d4442785e077ea52c7b95b7051b01d6512
+Merge: 9d65a31 0d79247
+Author: OscarMorales18 <156693114+OscarMorales18@users.noreply.github.com>
+Date:   Tue Sep 29 08:46:35 2026 -0600
+
+    Merge pull request #2 from OscarMorales18/basededatosVideo_9959233070
+    
+    Subiendo base de datos con Peliculas
+
+commit 0d7924775f5525ce0d26093b61d0453a0c5c998b
+Author: OscarMorales18 <omoralesl7@miumg.edu.gt>
+Date:   Tue Sep 29 08:45:50 2026 -0600
+
+    Subiendo base de datos con Peliculas
+
+commit 9d65a31521989a90e50e2fd40c62e28a67d13eae
+Merge: 09c914b c8e954a
+Author: OscarMorales18 <156693114+OscarMorales18@users.noreply.github.com>
+Date:   Tue Sep 29 08:35:43 2026 -0600
+
+    Merge pull request #1 from OscarMorales18/subiendoSistema_9959233070
+    
+    Subiendo lo que llevamos de Embutidos S.A
+
+commit c8e954a9be041678b0b1219768e414d71ad91661
+Author: OscarMorales18 <omoralesl7@miumg.edu.gt>
+Date:   Tue Sep 29 08:32:56 2026 -0600
+
+    Subiendo lo que llevamos de Embutidos S.A
+
+commit 09c914bc936a71f534d186db4c688e073b58ecb1
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon Sep 28 18:43:48 2026 -0600
+
+    Inicial proyecto
+
+commit f414c498afdbaf970217efd1012204fbe9379647
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Mon Sep 28 18:41:50 2026 -0600
+
+    Initial commit
